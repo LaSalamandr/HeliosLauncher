@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "WakyaCraft - Launcher",
+  "version": "1.0",
+  "productName": "WakyaCraft - Launcher",
+  "description": "Serveur - PVP FACTION",
+  "author": "Daniel Scalzi , MSSDEV",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
